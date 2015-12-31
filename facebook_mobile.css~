@@ -1,0 +1,70 @@
+#mobile_screen {
+    width: 240px;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+    background-color: #e9eaed;
+    font-size: 12px;
+    border: 1px solid #141823;
+    margin: 30px auto;
+}
+
+body {
+    margin: 0;
+}
+
+#mobile_header {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 30px;
+    position: absolute;
+    background-color: #3b5998;
+    font-size: 12px;
+    padding: 5px;
+}
+
+.mobile_logo {
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    padding: 5px;
+    float: left;
+    margin: 5px;
+}
+input
+{
+	float: left;
+	width:100px;
+	color: #fff;  
+	background-color: transparent;
+    border: 0px solid;
+    font-size: 14px;
+    font-family:Helvetica/Roboto ;
+}
+.search_box
+{
+	top:0;
+	float:left;
+	position: absolute;
+	 width: 100px;
+    padding: 2px 5px 5px 5px;
+}
+.glyphicon
+{
+	color: #fff;
+}
+.friend_list
+{
+position: absolute;
+right: 0;
+float: right;
+top:2px;
+
+}
+.friend_list img
+{
+	height: 20px;
+width: 20px;
+
+}

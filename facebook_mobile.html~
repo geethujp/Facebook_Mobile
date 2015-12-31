@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+        Facebook for Mobile
+        </title>
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="facebook_mobile.css">
+    </head>
+    <body>
+        <div id="mobile_screen">
+            <div id="mobile_header">
+                <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                <span class="search_box"><input type="text" placeholder="Search"></span>
+                <span class="friend_list"><a href="#"><img src="friendlist.jpeg" /></a></span>
+            </div>
+            <nav id="menu bar">
+            <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            </ul>
+            <div class="mobile_search">
+            </div>
+        </div>
+        <div id="mobile_body">
+        </div>
+        <div id="mobile_footer">
+        </div>
+    </div>
+</body>
+</html>
